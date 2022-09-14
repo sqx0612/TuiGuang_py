@@ -1,7 +1,8 @@
 # selenium+超级鹰
-推广连接刷点击量，推广成功条件：新cookie+新ip+验证码
+推广链接刷点击量，推广成功条件：新cookie+新ip+图文验证码
 
 目前采用selenium方式（小白一个，还没学会requests和beautifulsoup）
+图文验证码依赖超级鹰，直接用已经封装好的
 
 正在学习阶段，所以依然practise，代码未模块化封装，全都写到了一个里面
 
